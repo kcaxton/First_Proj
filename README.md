@@ -31,6 +31,6 @@ This project analyzes how cartoons, movies, and series have evolved between 2010
 - Include sentiment analysis from audience reviews  
 
 ##  Author
-**Keiceey**  
+**Caxton**  
 📧 kaycee3450@gmail.com  
 🌐 [GitHub](https://github.com/kcaxton)
