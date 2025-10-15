@@ -1,6 +1,3 @@
-# Kiptoo-s-portfolio
-My data science analytics portfolio
-
 # Film Industry Evolution Analysis (2010s vs 2020s)
 
 ## Overview
