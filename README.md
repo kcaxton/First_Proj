@@ -1,7 +1,7 @@
 # Film Industry Evolution Analysis (2005 to 2025)
 
 ## Overview
-This project analyzes how cartoons, movies, and series have evolved between 2010s and 2020s — focusing on:
+This project analyzes how cartoons, movies, and series have evolved between 2005s and 2020s — focusing on:
 - Release intervals (e.g., time between seasons or parts)
 - IMDb ratings and audience trends
 - Shifts in storytelling, visuals, and production styles
