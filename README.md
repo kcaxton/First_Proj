@@ -1,4 +1,4 @@
-# Film Industry Evolution Analysis (2010s vs 2020s)
+# Film Industry Evolution Analysis (2005 to 2025)
 
 ## Overview
 This project analyzes how cartoons, movies, and series have evolved between 2010s and 2020s — focusing on:
